@@ -1,6 +1,6 @@
 # UT Battleship 🚢
 
-A classic console-based Battleship game implemented in pure C, featuring multiple AI difficulty levels and special gameplay mechanics like tactical nuclear strikes. This project was developed as the primary computer programming assignment during my first semester at the University of Tehran.
+A classic console-based Battleship game implemented in pure C, featuring multiple AI difficulty levels and special gameplay mechanics like tactical nuclear strikes. This project was developed as the primary computer programming assignment during my first semester at the University of Tehran. (Fall 2023)
 
 ## 🌟 Features
 
